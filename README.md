@@ -2,6 +2,10 @@
 
 A full-stack link-in-bio page builder: build a shareable profile page with a custom bio, links, and theme, and share it at a single clean URL. Built with **React + TypeScript** on the frontend and **Node.js + Express + TypeScript** on the backend.
 
+## Output
+
+![Output Screenshot](./Screenshot.png)
+
 ## Features
 
 - **Live drag-free editor** — edit your display name, bio, avatar, and links with instant autosave (debounced, no save button to hunt for)
